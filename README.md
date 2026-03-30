@@ -1,6 +1,6 @@
 # web-340
 WEB340-306O Node.js
 <h1>WEB 340 Node.js</h1>
-<h2>Contributors
+<h2>Contributors</h2>
 *Richard Krasso
-*Darwin Pena Cabrera</h2>
+*Darwin Pena Cabrera
