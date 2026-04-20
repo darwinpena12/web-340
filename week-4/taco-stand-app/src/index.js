@@ -2,7 +2,7 @@
  * Author: Darwin Pena Cabrera
  * Date: 04/19/2026
  * File Name: index.js
- * Description: 
+ * Description: FIle implements command line for the taco application
  */
 
 "use strict";

@@ -2,7 +2,7 @@
  * Author: Darwin Pena Cabrera
  * Date: 04/19/2026
  * File Name: taco-stand.js
- * Description:
+ * Description: File define the emitter class 
  */
 
 const EventEmitter = require("events");

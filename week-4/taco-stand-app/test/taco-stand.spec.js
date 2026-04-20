@@ -2,7 +2,7 @@
  * Author: Darwin Pena Cabrera
  * Date: 04/19/2026
  * File Name: taco-stand.spec.js
- * Description:
+ * Description: test file to verify that everything runs correctly
  */
 
 "use strict";
